@@ -1,0 +1,37 @@
+body
+{
+    background-color: white;
+    margin: 0px;
+}
+
+
+.nav {
+    display: grid;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0), 0 6px 20px 0 black;
+    text-align: center;
+    background-color: white;
+    width: 100%;
+    position: fixed;
+}
+
+#child {
+    grid-row: 1;
+    grid-column: 2;
+}
+
+#main_text {
+    grid-row: 1;
+    grid-column: 1;
+}
+
+#changer {
+    font-size: 35px;
+    width: 400px;
+    height: 100px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    border-radius: 10px;
+    background-color: transparent;
+}
