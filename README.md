@@ -1,2 +1,2 @@
-# Color-Flipper
-This Repo contains the files for a website where you press a button and it changes the color of the background.
+# Portfolio
+This Repo contains the files for my portfolio projects as a frontend Web Developer.
