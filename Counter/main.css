@@ -1,0 +1,24 @@
+.Main
+{
+    display: grid;
+    position: fixed;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 15%;
+    background-color: aqua; 
+}
+
+input
+{
+    font-size: 20px;
+}
+
+body
+{
+    margin: 0px;
+}
+
+.Text
+{
+    font-size: 30px;
+}
